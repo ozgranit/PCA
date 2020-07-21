@@ -1,2 +1,2 @@
 # PCA
-using PCA on pictures of faces,  Reducing the dimension of the pictures and using the SVM classifier from Sklearn
+using PCA on sklearn's 'fetch_lfw_people' pictures, Reducing dimension of and using the SVM 1v1 classifier from Sklearn for classification
